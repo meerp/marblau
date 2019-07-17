@@ -16,7 +16,7 @@
 title: Restarunate Mar Blau
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Mar... tu diras que pongo.
+  ..
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://marblua.site" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
